@@ -1,12 +1,12 @@
 const scholarships = [
   {
     title: "Global Scholars Program",
-    description: "Full tuition for international students.",
+    description: "Full tuition for international students only.",
     category: "Undergraduate"
   },
   {
     title: "Women in STEM",
-    description: "Support for women pursuing STEM degrees.",
+    description: "Support for women pursuing STEM degrees only.",
     category: "Postgraduate"
   },
  {
